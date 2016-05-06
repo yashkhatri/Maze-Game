@@ -1,4 +1,4 @@
-#Authors: "Yash Khatri, Sudipta Mallick Das and Martina Öqvist"
+#Author: "Yash Khatri"
 
 module RPS
    
